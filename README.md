@@ -5,6 +5,6 @@ A seção de análise exploratória está dividida em duas partes. A primeira co
 
 Os dados foram extraídos do Repositório de Dados Eleitorais do Tribunal Superior Eleitoral. Os datasets utilizados nesse notebook consistem em um subset daqueles disponibilizados pelo Repositório (filtrou-se os dados relativos ao município de Vitória da Conquista).
 
-"Da pátria vou saber as glórias mil
-Conquista, que emoção vibra em meu peito,
+"Da pátria vou saber as glórias mil <br>
+Conquista, que emoção vibra em meu peito,<br>
 Ao fitar-te no mapa do brasil." - Hino de Vitória da Conquista
