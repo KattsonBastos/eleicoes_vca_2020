@@ -10,4 +10,4 @@ A seção de análise exploratória está dividida em duas partes. A primeira co
 
 "Da pátria vou saber as glórias mil <br>
 Conquista, que emoção vibra em meu peito,<br>
-Ao fitar-te no mapa do brasil." - Hino de Vitória da Conquista
+Ao fitar-te no mapa do Brasil." - Hino de Vitória da Conquista
