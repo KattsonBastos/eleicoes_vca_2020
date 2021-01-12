@@ -1,6 +1,6 @@
 # Análise do Perfil dos (as) Candidatos (as) nas eleições municipais em 2020: Vitória da Conquista - BA
 
-If something goes wrong when trying to open the notebook in github, please try this link: https://nbviewer.jupyter.org/github/KattsonBastos/eleicoes_vca_2020/blob/main/eda_cand_vca.ipynb
+Se algo der errado ao abrir o notebook aqui no Github, tente esse link por favor: https://nbviewer.jupyter.org/github/KattsonBastos/eleicoes_vca_2020/blob/main/eda_cand_vca.ipynb
 
 <p align = 'justify'>Esse notebook contém uma análise do perfil dos candidados eleitorais em 2020 do município de Vitória da Conquista, Ba.
 A seção de análise exploratória está dividida em duas partes. A primeira contém a visualização dos dados dos candidatos nas eleições municipais de 2020. A segunda apresenta um comparativo entre os dados das eleições de 2020 com os de 2016.
